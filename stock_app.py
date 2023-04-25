@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import yfinance as yf
 import seaborn as sns
 # Application title and body
-st.set_page_config(page_title="Supermarket Sales Dashboard",
+st.set_page_config(page_title="S&P 500 Application",
                    page_icon=":📈:",
                    layout='wide')
 # Title of application
