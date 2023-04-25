@@ -8,3 +8,4 @@ pybase64
 matplotlib
 seaborn
 lxml
+yfinance
