@@ -70,6 +70,7 @@ data = yf.download(
 )
 
 # Plotting Closing Price of Query Symbol
+st.set_option('deprecation.showPyplotGlobalUse', False)
 def price_plot(symbol):
     df= pd.DataFrame(data[symbol].Close)
     df['Date'] = df.index
