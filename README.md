@@ -1,23 +1,24 @@
-# Football data Dashboard with Python – Streamlit, Render ...
+# S&P 500 Closing Price Application – Streamlit, Render ...
 
-This repository contains Football data Dashboard deployed on Streamlit, Render and many more...
+This repository contains  S&P 500 Closing Price Application deployed on Streamlit, Render and many more...
 
 ## Run the app
 ```Powershell
 # vanilla terminal
-streamlit run football+app.py
+streamlit run stock_app.py
 
 # quit
 ctrl-c
 ```
 
 ## Demo
-Football data Dashboard[Streamlit]: (https://tushar2704-football-data-app-football-app-jfh44u.streamlit.app/)
+S&P 500 Closing Price Application[Streamlit]: (https://tushar2704-stock-sp500-app-stock-app-0ig6fy.streamlit.app/)
 
-Football data Dashboard[Render]: ()
+S&P 500 Closing Price Application[Render]: ()
 
 ## Screenshot
-![Football Screenshot](https://user-images.githubusercontent.com/66141195/233868333-cf15cca4-f4e6-4fd2-a861-3475ffcb3f2b.png)
+![stockapp](https://user-images.githubusercontent.com/66141195/234348776-fcecdffd-f0a8-48d6-b60d-c132bc120afb.png)
+
 
 
 
